@@ -1,0 +1,2 @@
+[2636:1002/224723.820:FATAL:electron\shell\common\asar\asar_util.cc:143] Integrity check failed for asar archive (580e447a1bd82ec1b609545553aa73b50fbaa4604757fe8f1ff2909c958cad57 vs f6f87a255cb331760c12482bf55299bfdc1849eb0cb419c0db107b45fddc47a5)
+[2636:1002/224723.820:ERROR:third_party\crashpad\crashpad\client\crashpad_client_win.cc:867] not connected
